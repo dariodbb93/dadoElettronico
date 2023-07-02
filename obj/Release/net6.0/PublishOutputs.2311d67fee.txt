@@ -1,0 +1,5 @@
+D:\csharp\App7\publish\App7.exe
+D:\csharp\App7\publish\App7.dll
+D:\csharp\App7\publish\App7.deps.json
+D:\csharp\App7\publish\App7.runtimeconfig.json
+D:\csharp\App7\publish\App7.pdb
